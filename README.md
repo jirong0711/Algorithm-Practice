@@ -7,7 +7,7 @@
 
 Pratice for algorithmic thinking and Preparation for algorithm coding tests.
 
-### Resources
+### References
 
 - [Code up](https://codeup.kr)
 - [BOJ](https://www.acmicpc.net)
